@@ -11,6 +11,8 @@ This cycling companion app provides a random picker where to go for your future 
 * Realm Swift 
 * UserNotifications 
 * Cocoapods 
+* SWIFT
+* Storyboards
 
 
 ## Screenshots
