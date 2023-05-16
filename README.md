@@ -39,6 +39,19 @@ This cycling companion app provides a random picker where to go for your future 
 * Storyboards
 
 
+## CocoaPods Used
+* [RealmSwift][1]
+* [iOSDropDown][2]
+* [SwipeCellKit][3]
+
+
+
+[1]: https://cocoapods.org/pods/RealmSwift
+[2]: https://cocoapods.org/pods/iOSDropDown
+[3]: https://cocoapods.org/pods/SwipeCellKit
+
+
+
 ## Screenshots
 
 
