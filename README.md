@@ -1,5 +1,9 @@
 
+
+
+<p align="center">
 ![167](https://github.com/jarvizconde1/San-Bukas-/assets/102355807/e4250322-cfcb-4d83-8e54-b229902c9967)
+</p>
 
 
 ## Saan Bukas?
