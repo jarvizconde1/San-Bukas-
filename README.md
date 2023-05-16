@@ -25,7 +25,7 @@ This cycling companion app provides a random picker where to go for your future 
 
 
 
-<img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/bcde66b5-653b-4ace-a0a8-b45696b240ea" width="100" height="550">
+<img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/bcde66b5-653b-4ace-a0a8-b45696b240ea" width="200" height="550">
  
 
 ## Demo
