@@ -2,7 +2,7 @@
 
 <p align="center">
   <p align="center">
-    <img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/ca5cf686-f94b-4f41-bef4-b6cecbeb7bc8" width="100" height="100">![87]
+    <img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/ca5cf686-f94b-4f41-bef4-b6cecbeb7bc8" width="100" height="100">
 
   </p>
   <p align="center">
