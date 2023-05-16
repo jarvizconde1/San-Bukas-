@@ -2,7 +2,8 @@
 
 <p align="center">
   <p align="center">
-    <img src="/ReadMeFiles/BeStrokes Icon.png" width="100" height="100">
+    <img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/ca5cf686-f94b-4f41-bef4-b6cecbeb7bc8" width="100" height="100">![87]
+
   </p>
   <p align="center">
     BeStrokes is an augmented reality iOS application that sticks sticker to clothes.
