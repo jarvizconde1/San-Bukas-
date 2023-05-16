@@ -1,7 +1,29 @@
 
-<p align="center">
-   ![167](https://github.com/jarvizconde1/San-Bukas-/assets/102355807/e4250322-cfcb-4d83-8e54-b229902c9967)
+
+  
+  
+  <p align="center">
+  <p align="center">
+    <img src="/ReadMeFiles/BeStrokes Icon.png" width="100" height="100">
   </p>
+  <p align="center">
+  
+    <br />
+    <br />
+    <a href="#about">About</a>
+    ·
+    <a href="#built-with">Built With</a>
+    ·
+    <a href="#cocoapods-used">CocoaPods Used</a>
+    ·
+    <a href="#screenshots">Screenshots</a>
+    ·
+    <a href="#demo">Demo</a>
+  </p>
+</p>
+
+<br />
+<br />
 
 
 
