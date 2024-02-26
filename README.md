@@ -33,7 +33,9 @@ San Bukas is your personal cycling inspiration companion! ‍♀️‍♂️
 Here's what you can do:
 
 Add your favorite bike routes: Create a list of trails, parks, or scenic rides you've been wanting to explore.
+
 Let fate pick your path: Feeling indecisive? Use the Randomizer to choose a route from your list with a tap.
+
 Set a reminder to roll: Schedule a push notification for your chosen ride, so you never miss an opportunity to get on your bike.
 
 ## Built With
